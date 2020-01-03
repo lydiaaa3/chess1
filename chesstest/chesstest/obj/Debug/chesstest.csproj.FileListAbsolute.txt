@@ -1,0 +1,5 @@
+/Users/a1013419574/Projects/chesstest/chesstest/bin/Debug/chesstest.exe
+/Users/a1013419574/Projects/chesstest/chesstest/bin/Debug/chesstest.pdb
+/Users/a1013419574/Projects/chesstest/chesstest/obj/Debug/chesstest.csprojAssemblyReference.cache
+/Users/a1013419574/Projects/chesstest/chesstest/obj/Debug/chesstest.exe
+/Users/a1013419574/Projects/chesstest/chesstest/obj/Debug/chesstest.pdb
